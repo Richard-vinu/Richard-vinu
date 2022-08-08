@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...MERN-STACK DEVELOPMENT
+- 🔭 I’m currently working on ...E-Commerce Website
 - 🌱 I’m currently learning ... Backend-Development
 - 🤔 I’m Pursuing my B-Tech in Information Technology
 - 💬 Ask me about ...Web-Development and Networking
