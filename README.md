@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Richard</h1>    
      
-<img align="right" alt="Coding" width="350" height = "200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">   </img>
+<img align="right" alt="Coding" border-width ="10px" width="350" height = "200"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">   </img>
+
 
 
 - 🔭 I’m currently working on **Instagram Clone Website**     
