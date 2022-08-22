@@ -31,7 +31,8 @@
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/URL-SHORTENER.png" width="100%"  alt="urlShortnerWebsite"/>
         </a>
         <br />
-        <p><strong>This is a website to shotendd the LongLink.</strong></p>
+        <p><strong>This is a website to 
+shorten the long_URL.</strong></p>
       <p align="left">
         <strong> Take a Look </strong>
         <br/>
@@ -44,7 +45,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">PortFolio Website</h3>
+      <h3 align="center">Portfolio Website</h3>
         <br />
       <a target="_blank" href="https://richard-i.netlify.app">
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richardPor.png" width="100%"  alt="eFresh Groceries Website"/>
