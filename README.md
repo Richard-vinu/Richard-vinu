@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Richard</h1>    
-<iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>       
-<!-- <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   </img> -->
+     
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">   </img>
 
 
 - 🔭 I’m currently working on **Instagram Clone Website**     
