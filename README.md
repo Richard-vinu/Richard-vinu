@@ -1,5 +1,5 @@
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-<h1 align="center">Hi 👋, I'm Richard</h1>    
+
+<h1 align="center">Hi ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif), I'm Richard</h1>    
      
 <img align="right" alt="Coding" border-radius ="20px" width="350" height = "200"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">   </img>
 
