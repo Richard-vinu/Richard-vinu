@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Networking, HTML , CSS , Node.Js, NoSQL, JavaScript**     
 
-- ⚡ Fun fact **I enjoy playing videoGames.**  
+- ⚡  **I enjoy playing videoGames and i love to watch anime.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
