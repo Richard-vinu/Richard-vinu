@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋,<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=I'am+Richard;I'am+Backend-Developer" alt="Typing SVG" /></a></h1>    
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=I'am+Richard;I'am+Backend-Developer" alt="Typing SVG" /></a></h1>    
      
-<img align="right" alt="Coding" border-radius ="20px" width="350" height = "200"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">   </img>
+<img align="right" alt="Coding" border-radius ="20px" width="350" height = "200"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
 
 
