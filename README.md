@@ -50,7 +50,7 @@ shorten the long_URL.</strong></p>
       <h3 align="center">Portfolio Website</h3>
         <br />
       <a target="_blank" href="https://richard-i.netlify.app">
-            <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richardPor.png" width="100%"  alt="eFresh Groceries Website"/>
+            <img src=https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richard-i.netlify.app_.png" width="100%"  alt="eFresh Groceries Website"/>
         </a>
         <br />
         <p><strong>This is my Portfolio website . </strong></p>
