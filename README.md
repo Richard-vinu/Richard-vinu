@@ -32,12 +32,11 @@
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/URL-SHORTENER.png" width="100%"  alt="urlShortnerWebsite"/>
         </a>
         <br />
-        <p><strong>This is a website to 
-shorten the long_URL.</strong></p>
+        <p><strong>This Project in progress.</strong></p>
       <p align="left">
         <strong> Take a Look </strong>
         <br/>
-  <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
+  <a href="https:"#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="#">
