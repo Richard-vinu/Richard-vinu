@@ -47,7 +47,7 @@
     <td width="50%" valign="top">
       <h3 align="center">𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘞𝘦𝘣𝘴𝘪𝘵𝘦</h3>
         <br />
-      <a target="_blank" href="https://richard-i.netlify.app">
+      <a target="_blank" href="https://richardit.netlify.app/">
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richard-i.netlify.app_%20(2).png"width="100%" alt="myportfolioWebsite"/>
         </a>
         <br />
@@ -62,7 +62,7 @@
   <a href="https://github.com/Richard-vinu/Richard-IT.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://richard-i.netlify.app/" target="_blank">
+  <a href="https://richardit.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
