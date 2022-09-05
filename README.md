@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
           <br />
-      <a target="_blank" href="https://efreshgroceries.netlify.app">
+      <a target="_blank" href="#">
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/URL-SHORTENER.png" width="100%"  alt="urlShortnerWebsite"/>
         </a>
         <br />
