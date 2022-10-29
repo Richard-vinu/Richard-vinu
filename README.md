@@ -47,7 +47,7 @@
     <td width="50%" valign="top">
       <h3 align="center">𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘞𝘦𝘣𝘴𝘪𝘵𝘦</h3>
         <br />
-      <a target="_blank" href="https://richardit.netlify.app/">
+      <a target="_blank" href="https://richardbackdev.netlify.app/">
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richard-i.netlify.app_%20(2).png"width="100%" alt="myportfolioWebsite"/>
         </a>
         <br />
