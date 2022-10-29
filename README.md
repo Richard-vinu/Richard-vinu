@@ -62,7 +62,7 @@
   <a href="https://github.com/Richard-vinu/Richard-IT.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://richardit.netlify.app/" target="_blank">
+  <a href="https://richardbackdev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
