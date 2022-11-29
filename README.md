@@ -16,7 +16,7 @@
 
 <h3 align="left">𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/richard-%F0%9F%A6%BE-ab978218b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/richard-ab978218b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
 </p>  
 
 
