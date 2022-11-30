@@ -16,7 +16,7 @@
 
 <h3 align="left">𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/richard-ab978218b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentine fernandes" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/richard-ab978218b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard's lined" height="30" width="40" /></a>
 </p>  
 
 
@@ -28,12 +28,11 @@
     <td width="50%" valign="top">
       <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
           <br />
-      <a target="_blank" href="i am wokring on this">
+      <a target="_blank" href="https://url-shorter-inky.vercel.app/">
             <img src="https://github.com/Richard-vinu/DS_Algo-Question_Practice/blob/ds-algo/HOF/url-shorter-inky.vercel.app_.png" width="100%"  alt="urlShortnerWebsite"/>
         </a>
         <br />
-        <p><strong>This Project in progress<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=500&pause=150&color=F75324&width=435&lines=.....%E2%8F%B3%F0%9F%9B%A0%E2%9A%92" alt="Typing SVG" /></strong></p>
-      <p align="left">
+        
         <strong> Take a Look </strong>
         <br/>
   <a href="https:"https://github.com/Richard-vinu/Url-Shorter" target="_blank">
