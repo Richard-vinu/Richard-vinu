@@ -22,55 +22,6 @@
 
 <hr>
 <h1 align="center">𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h1> 
-<table>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
-          <br />
-      <a target="_blank" href="https://url-shorter-inky.vercel.app/">
-            <img src="https://github.com/Richard-vinu/DS_Algo-Question_Practice/blob/ds-algo/HOF/url-shorter-inky.vercel.app_.png" width="100%"  alt="urlShortnerWebsite"/>
-        </a>
-        <br />
-        
-        <strong> Take a Look </strong>
-        <br/>
-  <a href="https:"https://github.com/Richard-vinu/Url-Shorter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://url-shorter-inky.vercel.app/">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰 𝘞𝘦𝘣𝘴𝘪𝘵𝘦</h3>
-        <br />
-      <a target="_blank" href="https://richardbackdev.netlify.app/">
-            <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richard-i.netlify.app_%20(2).png"width="100%" alt="myportfolioWebsite"/>
-        </a>
-        <br />
-        <p><strong>This is my Portfolio website . </strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-      </p> 
-  <a href="https://github.com/Richard-vinu/Richard-IT.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://richardbackdev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-  </tr>
-  
-   
-  
-</table>
 
 
 
