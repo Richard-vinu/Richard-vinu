@@ -29,7 +29,7 @@
       <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
           <br />
       <a target="_blank" href="i am wokring on this">
-            <img src="https://github.com/Richard-vinu/DS_Algo-Question_Practice/blob/ds-algo/url-shorter-inky.vercel.app_.png" width="100%"  alt="urlShortnerWebsite"/>
+            <img src="" width="100%"  alt="urlShortnerWebsite"/>
         </a>
         <br />
         <p><strong>This Project in progress<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=500&pause=150&color=F75324&width=435&lines=.....%E2%8F%B3%F0%9F%9B%A0%E2%9A%92" alt="Typing SVG" /></strong></p>
