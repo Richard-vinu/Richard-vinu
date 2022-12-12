@@ -16,7 +16,7 @@
 
 <h3 align="left">𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/richard-ab978218b/" target="blank"><img align="center" src="https://icons8.com/icon/nTY9sWZezkri/linkedin" alt="richard's lined" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/richard-ab978218b/" target="blank"><img align="center" src="https://www.freeiconspng.com/img/2026" alt="richard's lined" height="30" width="40" /></a>
 </p>  
 
 
