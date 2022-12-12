@@ -43,7 +43,7 @@
       <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
           <br />
       <a target="_blank" href="i am wokring on this">
-            <img src="https://github.com/Richard-vinu/dev_portfolio/blob/main/images/best-url-shortener.jpg" width="100%"  alt="urlShortnerWebsite"/>
+            <img src="https://techviral.net/wp-content/uploads/2018/05/URL-SHORTENER.png" width="100%"  alt="urlShortnerWebsite"/>
         </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
