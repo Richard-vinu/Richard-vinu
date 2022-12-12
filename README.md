@@ -14,12 +14,12 @@
 
 - ⚡  **I enjoy playing videoGames and i love to watch anime.**  
 
-<h3 align="left">𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦:</h3>
-<p align="left">
-  <a href="https://www.freeiconspng.com/img/2026">Linkedin Logo Png Available In Different Size</a>
-  <a href="https://www.linkedin.com/in/richard-ab978218b/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="richard's lined" height="30" width="40" /></a>
-</p>  
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/richard-ab978218b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:richardnova1999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+</div>
 
 <hr>
 <h1 align="center">𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h1> 
