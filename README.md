@@ -22,6 +22,100 @@
 
 <hr>
 <h1 align="center">𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h1> 
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
+          <br />
+      <a target="_blank" href="i am wokring on this">
+            <img src="https://user-images.githubusercontent.com/78643671/188394968-be7d09bb-9dc9-48f2-b1bc-d845c8afdf07.png" width="100%"  alt="urlShortnerWebsite"/>
+        </a>
+        <br />
+        <p><strong>This Project in progress<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=500&pause=150&color=F75324&width=435&lines=.....%E2%8F%B3%F0%9F%9B%A0%E2%9A%92" alt="Typing SVG" /></strong></p>
+      <p align="left">
+        <strong> Take a Look </strong>
+        <br/>
+  <a href="https:"#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Shopping Cart </h3>
+        <br />
+      <a target="_blank" href="https://richardit.netlify.app/">
+            <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richard-i.netlify.app_%20(2).png"width="100%" alt="myportfolioWebsite"/>
+        </a>
+        <br />
+        <p><strong>Shopping Cart </strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+      </p> 
+  <a href="https://github.com/Richard-vinu/Shopping_Cart" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://richardit.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
+          <br />
+      <a target="_blank" href="i am wokring on this">
+            <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/URL-SHORTENER.png" width="100%"  alt="urlShortnerWebsite"/>
+        </a>
+        <br />
+        <p><strong>This Project in progress<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=500&pause=150&color=F75324&width=435&lines=.....%E2%8F%B3%F0%9F%9B%A0%E2%9A%92" alt="Typing SVG" /></strong></p>
+      <p align="left">
+        <strong> Take a Look </strong>
+        <br/>
+  <a href="https:"#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Open to Intern </h3>
+        <br />
+      <a target="_blank" href="https://richardit.netlify.app/">
+            <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/richard-i.netlify.app_%20(2).png"width="100%" alt="myportfolioWebsite"/>
+        </a>
+        <br />
+        <p><strong>Blog Website </strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+      </p> 
+  <a href="https://github.com/Richard-vinu/Richard-IT.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://richardit.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  
+   
+  
+</table>
 
 
 
