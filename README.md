@@ -1,5 +1,6 @@
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&width=435&lines=%F0%9D%99%83%F0%9D%99%9E...%F0%9D%99%84'%F0%9D%99%A2+%F0%9D%99%8D%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%99;+%F0%9D%99%84'%F0%9D%99%A2+%F0%9D%99%96+%F0%9D%98%BD%F0%9D%99%96%F0%9D%99%98%F0%9D%99%A0%F0%9D%99%9A%F0%9D%99%99+%F0%9D%98%BF%F0%9D%99%9A%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=25&duration=850&pause=1000&color=F7531A&width=435&lines=%F0%9D%99%83%F0%9D%99%9E...%F0%9D%99%84+%F0%9D%99%96%F0%9D%99%A2+%F0%9D%99%8D%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%99;I%CD%8E+%CD%8Ea%CD%8Em%CD%8E+%CD%8Ea%CD%8E+%CD%8EB%CD%8Ea%CD%8Ec%CD%8Ek%CD%8Ee%CD%8En%CD%8Ed%CD%8E-%CD%8ED%CD%8Ee%CD%8Ev%CD%8Ee%CD%8El%CD%8Eo%CD%8Ep%CD%8Ee%CD%8Er%CD%8E" alt="Typing SVG" /></a></a></h1>
+
 
 
 <img align="right" alt="Coding" border-radius ="20px" width="350" height = "200"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img></h1>
