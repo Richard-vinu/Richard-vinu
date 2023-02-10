@@ -56,6 +56,8 @@
   </a>
       </p>
     </td>
+    </tr>
+    <tr>
      <td width="50%" valign="top">
       <h3 align="center">𝘜𝘙𝘓-𝘚𝘩𝘰𝘳𝘵𝘯𝘦𝘳</h3>
           <br />
