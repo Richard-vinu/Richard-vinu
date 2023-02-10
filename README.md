@@ -26,13 +26,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=50&color=F70C8C&background=26FF1400&width=435&lines=PROJECTS" alt="Typing SVG" /></a></h1>
 
 <table>
-          <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">𝘔𝘺 𝘗𝘰𝘳𝘵𝘧𝘰𝘭𝘪𝘰</h3>
-          <br />
-      <a target="_blank" href="https://richard-it.vercel.app/">
-            <img src="https://user-images.githubusercontent.com/78643671/188394968-be7d09bb-9dc9-48f2-b1bc-d845c8afdf07.png" width="100%"  alt="urlShortnerWebsite"/>
-        </a>
+          
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
