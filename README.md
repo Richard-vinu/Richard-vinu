@@ -59,7 +59,7 @@
     </tr>
     <tr>
      <td width="50%" valign="top">
-      <h3 align="center">RealTime Chat-App𝘳</h3>
+      <h3 align="center">𝙍𝙚𝙖𝙡-𝙏𝙞𝙢𝙚 𝘾𝙝𝙖𝙩-𝘼𝙥𝙥</h3>
           <br />
       <a target="_blank" href="https://url-shorter-inky.vercel.app/">
             <img src="https://github.com/Richard-vinu/Richard-vinu/blob/main/Portfolio/Build-Realtime-chat-app.png" width="100%"  alt="urlShortnerWebsite"/>
