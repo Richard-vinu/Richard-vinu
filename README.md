@@ -24,6 +24,7 @@
 
 <hr>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=50&color=F70C8C&background=26FF1400&width=435&lines=PROJECTS" alt="Typing SVG" /></a></h1>
+
 <table>
           <tr>
     <td width="50%" valign="top">
