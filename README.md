@@ -9,7 +9,7 @@
 ### <img src="https://media1.giphy.com/media/U29iRRUrtx1wjD4GR4/giphy.gif?cid=ecf05e472yvv7uqxuu6ufigm31tr1pxus9h4mrfjo8180qzh&rid=giphy.gif&ct=s" width="70"> 𝘈 𝘓𝘪𝘵𝘵𝘭𝘦 𝘔𝘰𝘳𝘦 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦... 
 - 🔭 I’m currently working on **Real Time Chat Application**     
 
-- 🌱 I’m currently learning **JavaScript , React JS , Node Js, MongoDB**  
+- 🌱 I’m currently learning **BlockChain Development**  
 
 - 💬 Ask me about **,Front-End dev(Html,Css,JavaScript,React) Backend(node.js,Express.js,Nest.js,GraphQl) Database(Mongodb,Nosql)**     
 
