@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript , React JS , Node Js, MongoDB**  
 
-- 💬 Ask me about **Networking,Front-End dev(Html,Css,JavaScript,React) Backend(node.js,Express.js,Nest.js,GraphQl) Database(Mongodb,Nosql)**     
+- 💬 Ask me about **,Front-End dev(Html,Css,JavaScript,React) Backend(node.js,Express.js,Nest.js,GraphQl) Database(Mongodb,Nosql)**     
 
 - ⚡  **I enjoy playing videoGames and i love to watch anime.**  
 
