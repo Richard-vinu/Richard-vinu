@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **,Front-End dev(Html,Css,JavaScript,TypeScript,React) Backend(node.js,Express.js,Nest.js,GraphQl) Database(Mongodb,Nosql)**     
 
-  - ⚡  **I love to code**  
+  - ⚡  **I love to code with people**  
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
